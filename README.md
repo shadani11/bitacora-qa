@@ -1,0 +1,1 @@
+# bitacora QA - Yectli Guerra

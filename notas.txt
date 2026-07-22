@@ -1,0 +1,3 @@
+aprendi a clonar carpetas
+tambien aprendi a subir mi repositorio
+aprendi a ocupar git y simbolos
