@@ -5,3 +5,4 @@ recuerdo mas facil algunos comandos
 aprendi los terminos .env y .gitignore
 medio entendi mkdir node modules
 aprendi a deshacer un comando anterior
+esta linea esta incorrecta
